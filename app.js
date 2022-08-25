@@ -37,3 +37,7 @@ main()
 
 
 // This part ends at 18:58
+
+// How to create and use a promise starts at 19:05
+
+
