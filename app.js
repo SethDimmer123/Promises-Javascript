@@ -41,5 +41,7 @@ main()
 // How to create and use a promise starts at 19:05
 
 function getSubscriptionStatus() {
-    return new
+    return new Promise((resolve, reject) => {
+
+    })
 }
