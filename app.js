@@ -47,3 +47,5 @@ function getSubscriptionStatus() {
 }
 
 console.log(getSubscriptionStatus())
+
+// stopped at 20:55
