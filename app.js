@@ -98,5 +98,13 @@ main();
 // Promises problem starts at 23:24
 
 /**
- * 
+ * 1. Create a function called `getVideo`
+ * 2. Accept a parameter called `subscriptionStatus`
+ * 3. Return a new Promise inside of the function that:
+ *      -if "VIP" resolve ("show video")
+ *      -if "FREE" resolve("show trailer")
+ *      -otherwise reject("no video")
+ * 4. console.log the result of getVideo() in main()
  */
+
+
