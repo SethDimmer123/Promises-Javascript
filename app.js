@@ -104,7 +104,7 @@ main();
  *      -if "VIP" resolve ("show video")
  *      -if "FREE" resolve("show trailer")
  *      -otherwise reject("no video")
- * 4. console.log the result of getVideo() in main()
+ * 4. console.log the result of getVideo(status) in main()
  */
 
 
