@@ -63,6 +63,12 @@ main()
 
 // This part ends at 18:58
 
+
+
+
+
+
+
 // How to create and use a promise starts at 19:05
 
 const statusRef = document.querySelector('.status')
@@ -79,8 +85,18 @@ function getSubscriptionStatus() {
 
 // 2. Async/Await Method
 async function main(){
-    console.log(getSubscriptionStatus())
+    // console.log(getSubscriptionStatus())
+    const status = (await getSubscriptionStatus())
+    statusRef.innerHTML = status
 }
 
 
 main();
+
+
+
+// Promises problem starts at 23:24
+
+/**
+ * 
+ */
