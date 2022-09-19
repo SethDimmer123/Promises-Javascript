@@ -1,6 +1,6 @@
 // console.log(fetch("https://jsonplaceholder.typicode.com/users/1")) /*this is the promise in the console*/
 // const emailRef = document.querySelector(".email");
-// console.log
+// console.log(emailRef)
 
 // 1. Then Method
 
