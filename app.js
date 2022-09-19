@@ -71,6 +71,9 @@ function getSubscriptionStatus() {
     })
 }
 
-console.log(getSubscriptionStatus())
+async function main(){
+    console.log(getSubscriptionStatus())
+}
 
 
+main();
