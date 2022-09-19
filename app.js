@@ -71,6 +71,9 @@ function getSubscriptionStatus() {
     })
 }
 
+// 1. Then
+getSubscriptionStatus().then(response => console.log(response))
+
 async function main(){
     console.log(getSubscriptionStatus())
 }
