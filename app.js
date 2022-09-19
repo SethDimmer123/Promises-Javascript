@@ -73,9 +73,11 @@ function getSubscriptionStatus() {
     })
 }
 
-// 1. Then
-getSubscriptionStatus().then(response => console.log(response))
+// 1. Then method
+// getSubscriptionStatus().then(response => console.log(response))
 
+
+// 2. Async/Await Method
 async function main(){
     console.log(getSubscriptionStatus())
 }
