@@ -2,7 +2,7 @@
 // const emailRef = document.querySelector(".email");
 // console.log
 
-// 1. Then
+// 1. Then Method
 
 // fetch("https://jsonplaceholder.typicode.com/users/1").then((response) => {
     //  console.log(response.json())
