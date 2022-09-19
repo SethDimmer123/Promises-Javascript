@@ -3,7 +3,6 @@
 // console.log(emailRef)
 
 // 1. Then Method
-
 // fetch("https://jsonplaceholder.typicode.com/users/1").then((response) => {
     //  console.log(response.json())
     // response.json().then(data => {
