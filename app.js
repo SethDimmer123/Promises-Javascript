@@ -65,6 +65,8 @@ main()
 
 // How to create and use a promise starts at 19:05
 
+const statusRef = document.querySelector('.status')
+
 function getSubscriptionStatus() {
     return new Promise((resolve, reject) => {
         resolve("VIP")
