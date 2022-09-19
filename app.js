@@ -24,7 +24,7 @@
 
 // New Cleaner way of what is above starts at
 // 9:10
-console.log(1)
+// console.log(1)
 // fetch("https://jsonplaceholder.typicode.com/users/1").then((response) => {
     // return response.json()
 // })
@@ -32,7 +32,7 @@ console.log(1)
     // console.log(2)
     // emailRef.innerHTML = data.email
 // });
-console.log(3)
+// console.log(3)
 
 
 
@@ -73,4 +73,4 @@ function getSubscriptionStatus() {
 
 console.log(getSubscriptionStatus())
 
-// stopped at 20:55
+
