@@ -20,6 +20,9 @@
 
 
 
+
+
+
 // New Cleaner way of what is above starts at
 // 9:10
 // fetch("https://jsonplaceholder.typicode.com/users/1").then((response) => {
@@ -27,6 +30,7 @@
 // })
 // .then(data => {
     // console.log(data)
+    // emailRef.innerHTML = data.email
 // });
 
 
