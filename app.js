@@ -51,16 +51,16 @@ console.log(3)
 
 
 // 2. Async/Await
-async function main() {
-console.log(1)
-const response = await fetch("https://jsonplaceholder.typicode.com/users/1")
-console.log(2)
- const data = await response.json()
-console.log(3)
-emailRef.innerHTML = data.email
-} 
+// async function main() {
+// console.log(1)
+// const response = await fetch("https://jsonplaceholder.typicode.com/users/1")
+// console.log(2)
+//  const data = await response.json()
+// console.log(3)
+// emailRef.innerHTML = data.email
+// } 
 
-main()
+// main()
 
 
 // This part ends at 18:58
@@ -80,6 +80,9 @@ main()
 //         resolve("VIP")
 //     })
 // }
+
+
+
 
 // 1. Then method
 // getSubscriptionStatus().then(response => console.log(response))
