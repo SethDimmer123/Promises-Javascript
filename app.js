@@ -25,14 +25,14 @@
 // New Cleaner way of what is above starts at
 // 9:10
 // console.log(1)
-fetch("https://jsonplaceholder.typicode.com/users/1").then((response) => {
-    return response.json()
-})
-.then(data => {
-    console.log(2)
-    emailRef.innerHTML = data.email
-});
-console.log(3)
+// fetch("https://jsonplaceholder.typicode.com/users/1").then((response) => {
+//     return response.json()
+// })
+// .then(data => {
+//     console.log(2)
+//     emailRef.innerHTML = data.email
+// });
+// console.log(3)
 
 
 
